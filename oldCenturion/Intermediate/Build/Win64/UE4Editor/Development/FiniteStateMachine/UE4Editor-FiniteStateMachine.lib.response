@@ -1,0 +1,33 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FiniteStateMachine.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\DeadByDaylightEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FiniteStateMachine.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FiniteStateMachineModule.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_AndCondition.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_Condition.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_HasStateRanForXSecondsCondition.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_NotCondition.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_OrCondition.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_RefCondition.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_State.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_Transition.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\EFiniteStateMachineStatus.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FiniteStateMachine.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FiniteStateMachine.init.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_AndCondition.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_Condition.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_HasStateRanForXSecondsCondition.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_NotCondition.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_OrCondition.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_RefCondition.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_State.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\FSM_Transition.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\Default.rc2.res"
+/OUT:"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\FiniteStateMachine\UE4Editor-FiniteStateMachine.lib"
+/INCLUDE:IMPLEMENT_MODULE_FiniteStateMachine

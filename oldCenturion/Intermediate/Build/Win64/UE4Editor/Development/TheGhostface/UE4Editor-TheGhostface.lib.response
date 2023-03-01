@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TheGhostface.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\DeadByDaylightEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheGhostface\GhostfaceCrouchAttack.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheGhostface\GhostKillerAnalytics.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheGhostface\GhostKillerAnalyticsComponent.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheGhostface\TheGhostfaceModule.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheGhostface\GhostfaceCrouchAttack.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheGhostface\GhostKillerAnalytics.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheGhostface\GhostKillerAnalyticsComponent.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheGhostface\TheGhostface.init.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheGhostface\Default.rc2.res"
+/OUT:"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheGhostface\UE4Editor-TheGhostface.lib"
+/INCLUDE:IMPLEMENT_MODULE_TheGhostface

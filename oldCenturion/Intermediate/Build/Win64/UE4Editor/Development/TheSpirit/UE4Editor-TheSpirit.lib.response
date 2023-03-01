@@ -1,0 +1,42 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TheSpirit.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\DeadByDaylightEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\Autodidact.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\Deliverance.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\Diversion.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\DriedCherryBlossom.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\KatsumoriTalisman.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\OwningPlayerInSpiritHuskRange.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\Rancor.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\SpiritDynamicAccessoryAnimInstance.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\SpiritFury.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\SpiritHuskActivePhaseWalkAnimInstance.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\SpiritHuskAnimInstance.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\SpiritHuskOutlineUpdateStrategy.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\SpiritPassivePhaseWalkHusk.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\TheSpiritModule.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\ThrowRockInteraction.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\Autodidact.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\Deliverance.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\Diversion.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\DriedCherryBlossom.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\KatsumoriTalisman.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\OwningPlayerInSpiritHuskRange.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\Rancor.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\SpiritDynamicAccessoryAnimInstance.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\SpiritFury.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\SpiritHuskActivePhaseWalkAnimInstance.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\SpiritHuskAnimInstance.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\SpiritHuskOutlineUpdateStrategy.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\SpiritPassivePhaseWalkHusk.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\TheSpirit.init.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\ThrowRockInteraction.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\Default.rc2.res"
+/OUT:"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\UE4Editor-TheSpirit.lib"
+/INCLUDE:IMPLEMENT_MODULE_TheSpirit

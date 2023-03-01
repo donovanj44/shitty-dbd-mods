@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheCannibal\Definitions.TheCannibal.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheCannibal\Public\CannibalPowerPresentationItemProgressComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\PresentationItemProgressComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\PresentationItemProgressComponent.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheCannibal\CannibalPowerPresentationItemProgressComponent.generated.h

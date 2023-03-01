@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\Anniversary2021\Definitions.Anniversary2021.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Anniversary2021\Public\Anniversary2021EventComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SpecialEventUtilities\Public\RespawningEventComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\SpecialEventUtilities\RespawningEventComponent.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Anniversary2021\Anniversary2021EventComponent.generated.h

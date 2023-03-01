@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TheK26.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\DeadByDaylightEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheK26\Module.TheK26.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheK26\Module.TheK26.gen.1_of_3.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheK26\Module.TheK26.gen.2_of_3.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheK26\Module.TheK26.gen.3_of_3.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheK26\Default.rc2.res"
+/OUT:"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheK26\UE4Editor-TheK26.lib"
+/INCLUDE:IMPLEMENT_MODULE_TheK26

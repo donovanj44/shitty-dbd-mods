@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\SocialBlockList\Definitions.SocialBlockList.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SocialBlockList\Public\BlockListFacade.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\SocialBlockList\BlockListFacade.generated.h

@@ -1,0 +1,26 @@
+﻿  Creating makefile for DeadByDaylightEditor (.uproject file is newer)
+UnrealBuildTool : warning : Warning: Plugin 'DBDUICommon' does not list plugin 'Wwise' as a dependency, but module 'DBDUIPresenters' depends on 'AkAudio'.
+UnrealBuildTool : warning : Warning: Plugin 'DBDUICommon' does not list plugin 'DBDUIMobile' as a dependency, but module 'DBDUIPresenters' depends on 'DBDUIViewsMobile'.
+UnrealBuildTool : warning : Warning: Plugin 'DBDUICommon' does not list plugin 'Niagara' as a dependency, but module 'DBDUIPresenters' depends on 'Niagara'.
+UnrealBuildTool : warning : Warning: Plugin 'DBDUICommon' does not list plugin 'Niagara' as a dependency, but module 'DBDUIPresenters' depends on 'NiagaraCore'.
+UnrealBuildTool : warning : Warning: Plugin 'DBDUICommon' does not list plugin 'Niagara' as a dependency, but module 'DBDUIPresenters' depends on 'NiagaraShader'.
+UnrealBuildTool : warning : Warning: Plugin 'DBDUICommon' does not list plugin 'OnlinePresence' as a dependency, but module 'DBDUIPresenters' depends on 'OnlinePresence'.
+UnrealBuildTool : warning : Warning: Plugin 'DBDUICommon' does not list plugin 'OnlineSubsystem' as a dependency, but module 'DBDUIPresenters' depends on 'OnlineSubsystem'.
+UnrealBuildTool : warning : Warning: Plugin 'DBDUICommon' does not list plugin 'OnlineSubsystemUtils' as a dependency, but module 'DBDUIPresenters' depends on 'OnlineSubsystemUtils'.
+UnrealBuildTool : warning : Warning: Plugin 'DBDUICommon' does not list plugin 'Paper2D' as a dependency, but module 'DBDUIPresenters' depends on 'Paper2D'.
+  Parsing headers for DeadByDaylightEditor
+    Running UnrealHeaderTool "C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\DeadByDaylight.uproject" "C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\DeadByDaylightEditor\Development\DeadByDaylightEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Cranch\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for DeadByDaylightEditor in 8,6609638 seconds
+  Building DeadByDaylightEditor...
+  Using Visual Studio 2019 14.29.30139 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 12 processes...
+    [1/6] Module.DeadByDaylight.gen.27_of_72.cpp
+    [2/6] Module.DeadByDaylight.gen.24_of_72.cpp
+    [3/6] Module.DeadByDaylight.cpp
+    [4/6] UE4Editor-DeadByDaylight.lib
+       ��������� ������⥪� C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\DeadByDaylight\UE4Editor-DeadByDaylight.lib � ��ꥪ� C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\DeadByDaylight\UE4Editor-DeadByDaylight.exp
+    [5/6] UE4Editor-DeadByDaylight.dll
+       ��������� ������⥪� C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\DeadByDaylight\UE4Editor-DeadByDaylight.suppressed.lib � ��ꥪ� C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\DeadByDaylight\UE4Editor-DeadByDaylight.suppressed.exp
+    [6/6] DeadByDaylightEditor.target
+  Total time in Parallel executor: 33,87 seconds
+  Total execution time: 46,63 seconds

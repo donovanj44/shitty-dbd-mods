@@ -1,0 +1,39 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TheClown.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\DeadByDaylightEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\ActiveGasCloudTrackerComponent.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\AISkill_InteractionTarget_ThrowAntidote.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\AISkill_InteractionTarget_ThrowToxin.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\AISkill_Interaction_ReloadClown.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\AISkill_Interaction_SwapToAntidote.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\AISkill_Interaction_SwapToToxin.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\AntidoteCloudProjectile.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\BaseGasCloudProjectile.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\BombLauncher.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\GassedStatusEffect.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\GassedSurvivorSubAnimInstance.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\TheClownModule.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\TheClownUtilities.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\ActiveGasCloudTrackerComponent.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\AISkill_InteractionTarget_ThrowAntidote.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\AISkill_InteractionTarget_ThrowToxin.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\AISkill_Interaction_ReloadClown.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\AISkill_Interaction_SwapToAntidote.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\AISkill_Interaction_SwapToToxin.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\AntidoteCloudProjectile.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\BaseGasCloudProjectile.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\BombLauncher.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\EBombType.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\GassedStatusEffect.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\GassedSurvivorSubAnimInstance.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\TheClown.init.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\TheClownUtilities.gen.cpp.obj"
+"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\Default.rc2.res"
+/OUT:"C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\UE4Editor-TheClown.lib"
+/INCLUDE:IMPLEMENT_MODULE_TheClown

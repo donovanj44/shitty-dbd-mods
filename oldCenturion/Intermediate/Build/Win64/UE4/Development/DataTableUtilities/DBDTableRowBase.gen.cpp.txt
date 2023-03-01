@@ -1,0 +1,8 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\DataTableUtilities\Definitions.DataTableUtilities.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DataTableUtilities/Public/DBDTableRowBase.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DataTable.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DataTableUtilities\DBDTableRowBase.generated.h

@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\Activation\Definitions.Activation.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Activation\Public\ActivatableMock.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Activation\Public\Activatable.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Activation\Activatable.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Activation\ActivatableMock.generated.h

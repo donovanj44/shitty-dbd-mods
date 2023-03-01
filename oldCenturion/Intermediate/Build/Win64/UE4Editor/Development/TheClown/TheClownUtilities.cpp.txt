@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheClown\Definitions.TheClown.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheClown\Public\TheClownUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheClown\TheClownUtilities.generated.h

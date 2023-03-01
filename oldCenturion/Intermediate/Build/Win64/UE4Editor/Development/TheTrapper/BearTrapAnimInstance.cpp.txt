@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheTrapper\Definitions.TheTrapper.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheTrapper\Public\BearTrapAnimInstance.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\AnimationUtilities\Public\SleepingAnimInstance.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\AnimationUtilities\SleepingAnimInstance.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheTrapper\BearTrapAnimInstance.generated.h

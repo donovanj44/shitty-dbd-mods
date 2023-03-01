@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\SignificanceUtilities\Definitions.SignificanceUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SignificanceUtilities\Public\DistanceBasedTickDisabler.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\SignificanceUtilities\DistanceBasedTickDisabler.generated.h

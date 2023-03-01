@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\Competence\Definitions.Competence.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\ModifierSubjectProvider.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Competence\ModifierSubjectProvider.generated.h

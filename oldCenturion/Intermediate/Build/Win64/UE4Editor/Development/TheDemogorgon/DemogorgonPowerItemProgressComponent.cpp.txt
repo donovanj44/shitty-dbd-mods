@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheDemogorgon\Definitions.TheDemogorgon.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheDemogorgon\Public\DemogorgonPowerItemProgressComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\PresentationItemProgressComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\PresentationItemProgressComponent.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheDemogorgon\DemogorgonPowerItemProgressComponent.generated.h

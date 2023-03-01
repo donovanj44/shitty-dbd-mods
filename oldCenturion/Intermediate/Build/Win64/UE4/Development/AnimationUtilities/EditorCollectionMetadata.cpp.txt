@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\AnimationUtilities\Definitions.AnimationUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\AnimationUtilities\Public\EditorCollectionMetadata.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\AnimationUtilities\EditorCollectionMetadata.generated.h

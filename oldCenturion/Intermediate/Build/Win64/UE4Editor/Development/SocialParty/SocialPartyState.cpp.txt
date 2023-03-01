@@ -1,0 +1,15 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\SocialParty\Definitions.SocialParty.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SocialParty\Public\SocialPartyState.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SocialParty\Public\CustomGamePresetData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SocialParty\Public\CustomGameBotsData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SocialParty\Public\CustomGameBot.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\SocialParty\CustomGameBot.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\SocialParty\CustomGameBotsData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\SocialParty\CustomGamePresetData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SocialParty\Public\PartySessionSettings.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\SocialParty\PartySessionSettings.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SocialParty\Public\PartyMatchmakingSettings.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SocialParty\Public\EMatchmakingState.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\SocialParty\EMatchmakingState.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\SocialParty\PartyMatchmakingSettings.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\SocialParty\SocialPartyState.generated.h

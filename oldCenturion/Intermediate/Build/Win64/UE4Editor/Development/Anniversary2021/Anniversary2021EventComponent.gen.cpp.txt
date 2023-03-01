@@ -1,0 +1,7 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\Anniversary2021\Definitions.Anniversary2021.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Anniversary2021/Public/Anniversary2021EventComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SpecialEventUtilities\Public\RespawningEventComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\SpecialEventUtilities\RespawningEventComponent.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Anniversary2021\Anniversary2021EventComponent.generated.h

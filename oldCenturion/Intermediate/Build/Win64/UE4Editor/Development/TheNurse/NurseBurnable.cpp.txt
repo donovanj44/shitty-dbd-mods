@@ -1,0 +1,9 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheNurse\Definitions.TheNurse.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheNurse\Public\NurseBurnable.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDGameplay\Public\PlayerLightBurnable.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDGameplay\Public\LightBurnable.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\FirecrackerEffectData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\FirecrackerEffectData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDGameplay\LightBurnable.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDGameplay\PlayerLightBurnable.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheNurse\NurseBurnable.generated.h

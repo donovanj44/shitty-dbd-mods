@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\Definitions.TheSpirit.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheSpirit\Public\SpiritHuskAnimInstance.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheSpirit\SpiritHuskAnimInstance.generated.h

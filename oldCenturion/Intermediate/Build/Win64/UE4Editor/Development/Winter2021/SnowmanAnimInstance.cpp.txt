@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\Winter2021\Definitions.Winter2021.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Winter2021\Public\SnowmanAnimInstance.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Winter2021\Public\ESnowmanDestructionType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Winter2021\ESnowmanDestructionType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Winter2021\SnowmanAnimInstance.generated.h

@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\SpecialEventUtilities\Definitions.SpecialEventUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SpecialEventUtilities\Public\RespawnableStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\SpecialEventUtilities\RespawnableStrategy.generated.h

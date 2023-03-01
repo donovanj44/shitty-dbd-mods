@@ -1,0 +1,11 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\Competence\Definitions.Competence.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\HasObjectStateWithMaxDuration.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\HasObjectState.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\EventDrivenModifierCondition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\BaseModifierCondition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Competence\BaseModifierCondition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Competence\EventDrivenModifierCondition.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Competence\HasObjectState.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Competence\HasObjectStateWithMaxDuration.generated.h

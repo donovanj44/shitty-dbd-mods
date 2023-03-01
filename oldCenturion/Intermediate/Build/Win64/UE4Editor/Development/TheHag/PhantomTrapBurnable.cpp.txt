@@ -1,0 +1,7 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheHag\Definitions.TheHag.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheHag\Public\PhantomTrapBurnable.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDGameplay\Public\LightBurnable.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\FirecrackerEffectData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\FirecrackerEffectData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDGameplay\LightBurnable.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheHag\PhantomTrapBurnable.generated.h

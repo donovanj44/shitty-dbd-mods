@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\GFXUtilities\Definitions.GFXUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GFXUtilities\Public\TranslucentOutlineRenderStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GFXUtilities\Public\BaseOutlineRenderStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GFXUtilities\BaseOutlineRenderStrategy.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GFXUtilities\TranslucentOutlineRenderStrategy.generated.h

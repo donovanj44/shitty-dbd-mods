@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\QueryService\Definitions.QueryService.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\QueryService\Public\ActorsInRangeBool.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\QueryService\ActorsInRangeBool.generated.h

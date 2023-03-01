@@ -1,0 +1,32 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\ScaleformUI\Definitions.ScaleformUI.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ScaleformUI\Public\GFxMoviePlayer.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ScaleformUI\Public\ExternalTexture.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ScaleformUI\ExternalTexture.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ScaleformUI\Public\GFxHitTestType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ScaleformUI\GFxHitTestType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ScaleformUI\Public\EGFxRenderTextureMode.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ScaleformUI\EGFxRenderTextureMode.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ScaleformUI\Public\GFxWidgetBinding.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ScaleformUI\GFxWidgetBinding.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ScaleformUI\Public\EGFxScaleMode.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ScaleformUI\EGFxScaleMode.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ScaleformUI\Public\ASValue.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ScaleformUI\Public\EASType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ScaleformUI\EASType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ScaleformUI\ASValue.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ScaleformUI\Public\EGFxTimingMode.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ScaleformUI\EGFxTimingMode.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ScaleformUI\Public\ASPerspectiveTransform.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ScaleformUI\ASPerspectiveTransform.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ScaleformUI\Public\ASDisplayInfo.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ScaleformUI\ASDisplayInfo.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ScaleformUI\Public\ASColorTransform.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ScaleformUI\ASColorTransform.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ScaleformUI\Public\EGFxAlign.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ScaleformUI\EGFxAlign.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ScaleformUI\GFxMoviePlayer.generated.h

@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\AtlantaFreeTickets\Definitions.AtlantaFreeTickets.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\AtlantaFreeTickets\Public\AtlantaFreeTicketData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\AtlantaFreeTickets\AtlantaFreeTicketData.generated.h

@@ -1,0 +1,101 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\DeadByDaylight\Definitions.DeadByDaylight.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/DBDPlayerCameraManager.gen.cpp
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/DBDPlayerCameraManager.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DBDPlayerCameraManager.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/DBDPlayerController.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/DBDPlayerController.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\DBDPlayerControllerBase.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\PlayerLoadoutData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\PlayerLoadoutData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\PlayerSavedProfileDataShared.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Customization\Public\CharmIdSlot.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Customization\CharmIdSlot.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\PlayerSavedProfileDataShared.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DBDPlayerControllerBase.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EPlayerRole.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EPlayerRole.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DBDPlayerController.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/DBDPlayerController_Menu.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/DBDPlayerController_Menu.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\PlayerDataSync.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\PlayerStateData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EGameState.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EGameState.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\PlayerStateData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\PlayerDataSync.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\GamePresetData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EGameplayMode.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\EGameplayMode.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\GameBotsData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\GameBot.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\GameBot.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\GameBotsData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\GamePresetData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DBDPlayerController_Menu.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/DBDPlayerControllerBase.gen.cpp
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/DBDPlayerData.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/DBDPlayerData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\NetworkUtilities\Public\YawAndPitchRotator_NetQuantize16.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\NetworkUtilities\YawAndPitchRotator_NetQuantize16.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DBDPlayerData.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/DBDPlayerLevelManager.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/DBDPlayerLevelManager.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DBDPlayerLevelManager.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/DBDPlayerPositionOffsetComponent.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/DBDPlayerPositionOffsetComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DBDPlayerPositionOffsetComponent.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/DBDPlayerStart.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/DBDPlayerStart.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerStart.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/NavigationObjectBase.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\NavigationObjectBase.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerStart.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DBDPlayerStart.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/DBDPlayerState.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/DBDPlayerState.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/PlayerState.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\PlayerState.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameflowNotifications\Public\PlayerflowEventsNotifier.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\GameflowNotifications\PlayerflowEventsNotifier.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\OngoingScoreData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EDBDScoreTypes.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\EDBDScoreTypes.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\OngoingScoreData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\CharacterStateData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\CharacterStateData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EAIDifficultyLevel.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\EAIDifficultyLevel.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Customization\Public\EquippedPlayerCustomization.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Customization\EquippedPlayerCustomization.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\AwardedScores.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\AwardedScore.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\AwardedScore.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\AwardedScores.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\UserGameStats.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EDBDScoreCategory.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EDBDScoreCategory.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UserGameStats.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\DBDRecentGameplayEvents.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DBDRecentGameplayEvents.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\PlatformsProviders\Source\PlatformsProviders\Public\EPlatformFlag.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\PlatformsProviders\Intermediate\Build\Win64\UE4Editor\Inc\PlatformsProviders\EPlatformFlag.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\PlatformsProviders\Source\PlatformsProviders\Public\EProviderFlag.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\PlatformsProviders\Intermediate\Build\Win64\UE4Editor\Inc\PlatformsProviders\EProviderFlag.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\ScoreEventData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\ScoreEventData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\StatusViewSource.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EInventoryItemType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\EInventoryItemType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\StatusViewSource.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\GameEventData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\GameEventData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DBDPlayerState.generated.h

@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\GFXUtilities\Definitions.GFXUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GFXUtilities\Public\MaterialNamedGroup.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GFXUtilities\Public\MaterialMap.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GFXUtilities\MaterialMap.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GFXUtilities\MaterialNamedGroup.generated.h

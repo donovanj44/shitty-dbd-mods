@@ -1,0 +1,9 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheLegion\Definitions.TheLegion.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheLegion/Public/LegionSurvivorAnalyticsComponent.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\GameEventData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\GameEventData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheLegion\LegionSurvivorAnalyticsComponent.generated.h

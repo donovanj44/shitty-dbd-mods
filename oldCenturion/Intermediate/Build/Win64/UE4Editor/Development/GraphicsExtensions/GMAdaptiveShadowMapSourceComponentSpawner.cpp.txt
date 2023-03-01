@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\GraphicsExtensions\Definitions.GraphicsExtensions.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GraphicsExtensions\Public\GMAdaptiveShadowMapSourceComponentSpawner.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\GraphicsExtensions\GMAdaptiveShadowMapSourceComponentSpawner.generated.h

@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\VFXUtilities\Definitions.VFXUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\VFXUtilities\Public\VFXUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\VFXUtilities\VFXUtilities.generated.h

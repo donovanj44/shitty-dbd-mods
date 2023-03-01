@@ -1,0 +1,7 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\DBDInput\Definitions.DBDInput.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDInput\Public\UIInputUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDInput\Public\EUIActionType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDInput\EUIActionType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EControlMode.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EControlMode.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDInput\UIInputUtilities.generated.h

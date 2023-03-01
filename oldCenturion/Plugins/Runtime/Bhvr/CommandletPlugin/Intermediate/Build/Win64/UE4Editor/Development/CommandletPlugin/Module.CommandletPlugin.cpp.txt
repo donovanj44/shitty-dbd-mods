@@ -1,0 +1,34 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Intermediate\Build\Win64\UE4Editor\Development\CommandletPlugin\Definitions.CommandletPlugin.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/CommandletPlugin/Source/CommandletPlugin/Private/CatalogValidationCommandlet.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Source\CommandletPlugin\Public\CatalogValidationCommandlet.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Commandlets/Commandlet.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Commandlet.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Intermediate\Build\Win64\UE4Editor\Inc\CommandletPlugin\CatalogValidationCommandlet.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/CommandletPlugin/Source/CommandletPlugin/Private/CommandletPluginModule.cpp
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/CommandletPlugin/Source/CommandletPlugin/Private/CustomizationValidationCommandlet.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Source\CommandletPlugin\Public\CustomizationValidationCommandlet.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Intermediate\Build\Win64\UE4Editor\Inc\CommandletPlugin\CustomizationValidationCommandlet.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/CommandletPlugin/Source/CommandletPlugin/Private/DataTableToCsvCommandlet.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Source\CommandletPlugin\Public\DataTableToCsvCommandlet.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Intermediate\Build\Win64\UE4Editor\Inc\CommandletPlugin\DataTableToCsvCommandlet.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/CommandletPlugin/Source/CommandletPlugin/Private/FixCustomizationAccessorySocketCommandlet.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Source\CommandletPlugin\Public\FixCustomizationAccessorySocketCommandlet.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Intermediate\Build\Win64\UE4Editor\Inc\CommandletPlugin\FixCustomizationAccessorySocketCommandlet.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/CommandletPlugin/Source/CommandletPlugin/Private/GenerateCurveFloatNetIdTableCommandlet.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Source\CommandletPlugin\Public\GenerateCurveFloatNetIdTableCommandlet.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Intermediate\Build\Win64\UE4Editor\Inc\CommandletPlugin\GenerateCurveFloatNetIdTableCommandlet.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/CommandletPlugin/Source/CommandletPlugin/Private/GenerateStoreCustomizationExclusionFileCommandlet.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Source\CommandletPlugin\Public\GenerateStoreCustomizationExclusionFileCommandlet.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Intermediate\Build\Win64\UE4Editor\Inc\CommandletPlugin\GenerateStoreCustomizationExclusionFileCommandlet.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/CommandletPlugin/Source/CommandletPlugin/Private/JournalsValidationCommandlet.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Source\CommandletPlugin\Public\JournalsValidationCommandlet.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Intermediate\Build\Win64\UE4Editor\Inc\CommandletPlugin\JournalsValidationCommandlet.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/CommandletPlugin/Source/CommandletPlugin/Private/LoadoutExportCommandlet.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Source\CommandletPlugin\Public\LoadoutExportCommandlet.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Intermediate\Build\Win64\UE4Editor\Inc\CommandletPlugin\LoadoutExportCommandlet.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/CommandletPlugin/Source/CommandletPlugin/Private/StoryDescriptionValidationCommandlet.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Source\CommandletPlugin\Public\StoryDescriptionValidationCommandlet.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Intermediate\Build\Win64\UE4Editor\Inc\CommandletPlugin\StoryDescriptionValidationCommandlet.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/CommandletPlugin/Source/CommandletPlugin/Private/UpdateJournalVignetteCinematicsCommandlet.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Source\CommandletPlugin\Public\UpdateJournalVignetteCinematicsCommandlet.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\CommandletPlugin\Intermediate\Build\Win64\UE4Editor\Inc\CommandletPlugin\UpdateJournalVignetteCinematicsCommandlet.generated.h

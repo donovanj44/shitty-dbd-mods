@@ -1,0 +1,26 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\DBDAttack\Definitions.DBDAttack.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDAttack/Public/PounceAttackObstructSubstate.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\DBDAttackObstructSubstate.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\DBDAttackSubstate.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\StatSystem\Public\StatProperty.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\StatSystem\Public\BaseStat.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\StatSystem\Public\StatModifier.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\StatSystem\Public\EModifierCompoundStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\StatSystem\EModifierCompoundStrategy.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\StatSystem\Public\EModifierOperationStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\StatSystem\EModifierOperationStrategy.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\StatSystem\StatModifier.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\StatSystem\BaseStat.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DataTableUtilities\Public\DBDTunableRowHandle.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DataTable.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DataTableUtilities\DBDTunableRowHandle.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\StatSystem\StatProperty.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\DBDAttackSubstate.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\DBDAttackObstructSubstate.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DBDAttack\PounceAttackObstructSubstate.generated.h

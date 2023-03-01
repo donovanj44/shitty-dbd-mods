@@ -1,0 +1,36 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\ThePig\Definitions.ThePig.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ThePig\Public\PigAmbushAttack.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDAttack\Public\PounceAttack.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\DBDAttack.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EAttackType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EAttackType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EAttackSubstate.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EAttackSubstate.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\AttackSubstateRequestResult.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\AttackSubstateRequestResult.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\StatSystem\Public\StatProperty.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\StatSystem\Public\BaseStat.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\StatSystem\Public\StatModifier.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\StatSystem\Public\EModifierCompoundStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\StatSystem\EModifierCompoundStrategy.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\StatSystem\Public\EModifierOperationStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\StatSystem\EModifierOperationStrategy.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\StatSystem\StatModifier.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\StatSystem\BaseStat.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DataTableUtilities\Public\DBDTunableRowHandle.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DataTableUtilities\DBDTunableRowHandle.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\StatSystem\StatProperty.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EDetectionZone.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EDetectionZone.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\DBDAttackTargetTracker.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DBDAttackTargetTracker.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EHitValidatorConfigName.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\EHitValidatorConfigName.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DBDAttack.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDAttack\PounceAttack.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\ThePig\PigAmbushAttack.generated.h

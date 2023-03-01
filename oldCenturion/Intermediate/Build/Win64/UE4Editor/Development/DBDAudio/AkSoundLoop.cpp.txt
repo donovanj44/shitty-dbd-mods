@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\DBDAudio\Definitions.DBDAudio.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDAudio\Public\AkSoundLoop.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDAudio\AkSoundLoop.generated.h

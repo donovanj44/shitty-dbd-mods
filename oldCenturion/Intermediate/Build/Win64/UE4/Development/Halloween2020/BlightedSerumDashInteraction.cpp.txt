@@ -1,0 +1,42 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\Halloween2020\Definitions.Halloween2020.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Halloween2020\Public\BlightedSerumDashInteraction.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\InteractionDefinition.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EInputInteractionType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\EInputInteractionType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\ESnapBackPositionType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\ESnapBackPositionType.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\ESnapBackType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\ESnapBackType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Activation\Public\Activatable.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Activation\Activatable.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Interaction\Public\Interaction.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Interaction\Interaction.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EInteractionAnimation.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DBDSharedTypes\EInteractionAnimation.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EPowerProgressBar.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\EPowerProgressBar.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EInteractionOwnership.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\EInteractionOwnership.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EButtonType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\EButtonType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\AnimationUtilities\Public\AnimationMontageDescriptor.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\AnimationUtilities\AnimationMontageDescriptor.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\SecondaryInteractionProperties.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\SecondaryInteractionProperties.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Activation\Public\ActivationDefinition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Activation\Public\EActivationStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Activation\EActivationStrategy.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Activation\ActivationDefinition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\AnimationUtilities\Public\MontagePlaybackDefinition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\AnimationUtilities\MontagePlaybackDefinition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EInteractionComparisonPriority.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\EInteractionComparisonPriority.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\InteractionDefinition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Halloween2020\BlightedSerumDashInteraction.generated.h

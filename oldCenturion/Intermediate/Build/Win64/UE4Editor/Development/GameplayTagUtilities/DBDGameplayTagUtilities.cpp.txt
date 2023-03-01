@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\GameplayTagUtilities\Definitions.GameplayTagUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayTagUtilities\Public\DBDGameplayTagUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTagUtilities\DBDGameplayTagUtilities.generated.h

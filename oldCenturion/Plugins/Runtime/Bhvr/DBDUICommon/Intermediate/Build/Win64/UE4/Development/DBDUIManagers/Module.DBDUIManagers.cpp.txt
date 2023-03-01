@@ -1,0 +1,31 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4\Development\DBDUIManagers\Definitions.DBDUIManagers.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICommon/Source/DBDUIManagers/Private/DBDTextManager.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIManagers\Public\DBDTextManager.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4\Inc\DBDUIManagers\DBDTextManager.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICommon/Source/DBDUIManagers/Private/DBDUIManagersModule.cpp
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICommon/Source/DBDUIManagers/Private/DPIScaleCurveForRatio.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIManagers\Public\DPIScaleCurveForRatio.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DataTableUtilities\Public\DBDTableRowBase.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\DataTable.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DataTableUtilities\DBDTableRowBase.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIManagers\Public\EDPIScaleCurveRatio.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4\Inc\DBDUIManagers\EDPIScaleCurveRatio.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4\Inc\DBDUIManagers\DPIScaleCurveForRatio.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICommon/Source/DBDUIManagers/Private/UIDataManager.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIManagers\Public\UIDataManager.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\CurrencyProgressionUIData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DBDSharedTypes\CurrencyProgressionUIData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EItemRarity.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DBDSharedTypes\EItemRarity.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EProgressionType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DBDSharedTypes\EProgressionType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\ECurrencyType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DBDSharedTypes\ECurrencyType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4\Inc\DBDUIManagers\UIDataManager.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICommon/Source/DBDUIManagers/Private/UIScaleManager.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIManagers\Public\UIScaleManager.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIManagers\Public\EScaleType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4\Inc\DBDUIManagers\EScaleType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4\Inc\DBDUIManagers\UIScaleManager.generated.h

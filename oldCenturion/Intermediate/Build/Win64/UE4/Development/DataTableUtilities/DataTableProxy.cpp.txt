@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\DataTableUtilities\Definitions.DataTableUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DataTableUtilities\Public\DataTableProxy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DataTableUtilities\DataTableProxy.generated.h

@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\SocialParty\Definitions.SocialParty.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SocialParty\Public\PartySessionSettings.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\SocialParty\PartySessionSettings.generated.h

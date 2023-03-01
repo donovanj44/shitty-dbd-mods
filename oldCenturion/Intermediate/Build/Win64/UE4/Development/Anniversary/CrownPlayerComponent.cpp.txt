@@ -1,0 +1,6 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\Anniversary\Definitions.Anniversary.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Anniversary\Public\CrownPlayerComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayTagUtilities\Public\TagStateBool.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayTagUtilities\TagStateBool.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Anniversary\CrownPlayerComponent.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h

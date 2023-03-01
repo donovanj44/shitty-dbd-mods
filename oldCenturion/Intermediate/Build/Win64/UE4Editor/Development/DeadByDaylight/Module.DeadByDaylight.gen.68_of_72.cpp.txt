@@ -1,0 +1,274 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\DeadByDaylight\Definitions.DeadByDaylight.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPlayerNameInputPopup.gen.cpp
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPlayerNameInputPopup.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\UMGGenericPopup.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUIMobile\Source\DBDUIViewsMobile\Public\MobileBaseUserWidget.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetNavigation.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\NamedSlotInterface.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\Anchors.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplate.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTrack.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeTransform.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeWarping.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplate.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplateBase.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplateBase.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneExecutionTokens.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneExecutionToken.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneAnimTypeID.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationScope.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/PersistentEvaluationData.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationOperand.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationOperand.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceInstanceData.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceInstanceData.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingAccumulator.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableToken.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuatorID.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuator.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\IMovieScenePlayer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePreAnimatedState.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnRegister.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\IMovieSceneObjectSpawner.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationState.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/IMovieSceneMotionVectorSimulation.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingCurves.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingCurves.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableTokenStack.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneInitialValueStore.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneAccumulatedBlendState.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation\Blending\MovieSceneBlendingAccumulator.inl
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneTemplateInterrogation.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplate.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackImplementation.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackImplementation.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTrack.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceHierarchy.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSectionParameters.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSectionParameters.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceHierarchy.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplate.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequence.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimationBinding.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimation.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\PropertyPath\Public\PropertyTypeCompatibility.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath\PropertyPathHelpers.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUIMobile\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsMobile\MobileBaseUserWidget.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGGenericPopup.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPlayerNameInputPopup.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPlayerRankInfo.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPlayerRankInfo.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EPlayerRole.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EPlayerRole.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPlayerRankInfo.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPlayersStatusWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPlayersStatusWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\CustomizedHudPlayerWrapperIdMapContainer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\CustomizedHudPlayerWrapperIdMapContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPlayersStatusWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPlayerStatusIcon.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPlayerStatusIcon.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPlayerStatusIcon.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPopupButton.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPopupButton.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUIMobile\Source\DBDUIViewsMobile\Public\UMGBaseButtonWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUIMobile\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsMobile\UMGBaseButtonWidget.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPopupButton.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPromoPackCharacterWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPromoPackCharacterWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\UMGPromoPackItemWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPromoPackItemWidget.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPromoPackCharacterWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPromoPackContentWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPromoPackContentWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPromoPackContentWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPromoPackCurrencyWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPromoPackCurrencyWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPromoPackCurrencyWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPromoPackItemWidget.gen.cpp
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPromoPackPurchaseCurrencyButtonWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPromoPackPurchaseCurrencyButtonWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\UMGBaseCurrencyButtonWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGBaseCurrencyButtonWidget.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPromoPackPurchaseCurrencyButtonWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPromoPackSelectedItemWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPromoPackSelectedItemWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPromoPackSelectedItemWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPromoPackSuggestionButton.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPromoPackSuggestionButton.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPromoPackSuggestionButton.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPurchaseBuyButton.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPurchaseBuyButton.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPurchaseBuyButton.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPurchaseCurrencyWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPurchaseCurrencyWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPurchaseCurrencyWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPurchaseItemsInfo.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPurchaseItemsInfo.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPurchaseItemsInfo.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGPurchaseSticker.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGPurchaseSticker.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGPurchaseSticker.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGQueueStatusIconWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGQueueStatusIconWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGQueueStatusIconWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGRankBanner.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGRankBanner.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\Highlightable.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\Highlightable.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\TooltipPressedData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\TooltipPressedData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGRankBanner.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGReceivedFriendRequestListElement.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGReceivedFriendRequestListElement.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUIMobile\Source\DBDUIViewsMobile\Public\UMGBaseFriendListElement.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUIMobile\Source\DBDUIViewsMobile\Public\AtlantaFriendUIData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUIMobile\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsMobile\AtlantaFriendUIData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUIMobile\Source\DBDUIViewsMobile\Public\EActionOnFriendType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUIMobile\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsMobile\EActionOnFriendType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUIMobile\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsMobile\UMGBaseFriendListElement.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGReceivedFriendRequestListElement.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGRefundDataWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGRefundDataWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\RefundUIData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\AtlantaRewardUIData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EAtlantaRewardType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\EAtlantaRewardType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\ECurrencyType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\ECurrencyType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EItemRarity.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EItemRarity.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\AtlantaRewardUIData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\RefundUIData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGRefundDataWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGRefundPopup.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGRefundPopup.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGRefundPopup.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGRewardPopupLayout.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGRewardPopupLayout.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\RewardLayoutWidgetToGenerate.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\RewardLayoutWidgetToGenerate.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGRewardPopupLayout.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGRewardSlotTutorialPopupRewardWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGRewardSlotTutorialPopupRewardWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGRewardSlotTutorialPopupRewardWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGRewardWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGRewardWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\RewardItemData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EInventoryItemType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\EInventoryItemType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\RewardItemData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGRewardWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGRichTextFreeTicketDecorator.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGRichTextFreeTicketDecorator.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/RichTextBlockDecorator.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\Framework/Text/ISlateRun.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\Framework/Text/ILayoutBlock.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\Framework/Text/IRunRenderer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\Framework/Text/ITextDecorator.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\RichTextBlockDecorator.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\RichTextFreeTicketImageInfo.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\RichTextFreeTicketImageInfo.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\RichTextFreeTicketTextInfo.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\RichTextFreeTicketTextInfo.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGRichTextFreeTicketDecorator.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGRichTextRewardItemDecorator.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGRichTextRewardItemDecorator.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGRichTextRewardItemDecorator.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGRitualClaimRewardButton.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGRitualClaimRewardButton.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGRitualClaimRewardButton.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGRitualRefreshButton.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGRitualRefreshButton.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGRitualRefreshButton.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGRoleSelectionScreen.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGRoleSelectionScreen.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\ERoleSelectionScreenButton.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\ERoleSelectionScreenButton.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGRoleSelectionScreen.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGRoleSwitcherWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGRoleSwitcherWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGRoleSwitcherWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/UMGScoreAlertWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/UMGScoreAlertWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\UMGBaseAlertWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGBaseAlertWidget.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EDBDScoreCategory.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EDBDScoreCategory.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\UMGScoreAlertWidget.generated.h

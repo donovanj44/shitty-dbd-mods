@@ -1,0 +1,7 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\SocialParty\Definitions.SocialParty.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SocialParty\Public\CustomGamePresetData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SocialParty\Public\CustomGameBotsData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SocialParty\Public\CustomGameBot.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\SocialParty\CustomGameBot.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\SocialParty\CustomGameBotsData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\SocialParty\CustomGamePresetData.generated.h

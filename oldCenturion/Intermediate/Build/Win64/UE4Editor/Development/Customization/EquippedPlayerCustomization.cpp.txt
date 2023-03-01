@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\Customization\Definitions.Customization.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Customization\Public\EquippedPlayerCustomization.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Customization\Public\CharmIdSlot.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Customization\CharmIdSlot.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Customization\EquippedPlayerCustomization.generated.h

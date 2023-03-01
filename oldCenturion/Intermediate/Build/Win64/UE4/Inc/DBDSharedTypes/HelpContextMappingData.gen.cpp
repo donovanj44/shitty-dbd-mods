@@ -1,0 +1,122 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/GeneratedCppIncludes.h"
+#include "DBDSharedTypes/Public/HelpContextMappingData.h"
+#ifdef _MSC_VER
+#pragma warning (push)
+#pragma warning (disable : 4883)
+#endif
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+void EmptyLinkFunctionForGeneratedCodeHelpContextMappingData() {}
+// Cross Module References
+	DBDSHAREDTYPES_API UScriptStruct* Z_Construct_UScriptStruct_FHelpContextMappingData();
+	UPackage* Z_Construct_UPackage__Script_DBDSharedTypes();
+	DATATABLEUTILITIES_API UScriptStruct* Z_Construct_UScriptStruct_FDBDTableRowBase();
+// End Cross Module References
+class UScriptStruct* FHelpContextMappingData::StaticStruct()
+{
+	static class UScriptStruct* Singleton = NULL;
+	if (!Singleton)
+	{
+		extern DBDSHAREDTYPES_API uint32 Get_Z_Construct_UScriptStruct_FHelpContextMappingData_Hash();
+		Singleton = GetStaticStruct(Z_Construct_UScriptStruct_FHelpContextMappingData, Z_Construct_UPackage__Script_DBDSharedTypes(), TEXT("HelpContextMappingData"), sizeof(FHelpContextMappingData), Get_Z_Construct_UScriptStruct_FHelpContextMappingData_Hash());
+	}
+	return Singleton;
+}
+template<> DBDSHAREDTYPES_API UScriptStruct* StaticStruct<FHelpContextMappingData>()
+{
+	return FHelpContextMappingData::StaticStruct();
+}
+static FCompiledInDeferStruct Z_CompiledInDeferStruct_UScriptStruct_FHelpContextMappingData(FHelpContextMappingData::StaticStruct, TEXT("/Script/DBDSharedTypes"), TEXT("HelpContextMappingData"), false, nullptr, nullptr);
+static struct FScriptStruct_DBDSharedTypes_StaticRegisterNativesFHelpContextMappingData
+{
+	FScriptStruct_DBDSharedTypes_StaticRegisterNativesFHelpContextMappingData()
+	{
+		UScriptStruct::DeferCppStructOps(FName(TEXT("HelpContextMappingData")),new UScriptStruct::TCppStructOps<FHelpContextMappingData>);
+	}
+} ScriptStruct_DBDSharedTypes_StaticRegisterNativesFHelpContextMappingData;
+	struct Z_Construct_UScriptStruct_FHelpContextMappingData_Statics
+	{
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam Struct_MetaDataParams[];
+#endif
+		static void* NewStructOps();
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_TopicIds_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FArrayPropertyParams NewProp_TopicIds;
+		static const UE4CodeGen_Private::FNamePropertyParams NewProp_TopicIds_Inner;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_ContextName_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FStrPropertyParams NewProp_ContextName;
+		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
+		static const UE4CodeGen_Private::FStructParams ReturnStructParams;
+	};
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::Struct_MetaDataParams[] = {
+		{ "BlueprintType", "true" },
+		{ "ModuleRelativePath", "Public/HelpContextMappingData.h" },
+	};
+#endif
+	void* Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::NewStructOps()
+	{
+		return (UScriptStruct::ICppStructOps*)new UScriptStruct::TCppStructOps<FHelpContextMappingData>();
+	}
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::NewProp_TopicIds_MetaData[] = {
+		{ "Category", "HelpContextMappingData" },
+		{ "ModuleRelativePath", "Public/HelpContextMappingData.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FArrayPropertyParams Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::NewProp_TopicIds = { "TopicIds", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Array, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FHelpContextMappingData, TopicIds), EArrayPropertyFlags::None, METADATA_PARAMS(Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::NewProp_TopicIds_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::NewProp_TopicIds_MetaData)) };
+	const UE4CodeGen_Private::FNamePropertyParams Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::NewProp_TopicIds_Inner = { "TopicIds", nullptr, (EPropertyFlags)0x0000000000000000, UE4CodeGen_Private::EPropertyGenFlags::Name, RF_Public|RF_Transient|RF_MarkAsNative, 1, 0, METADATA_PARAMS(nullptr, 0) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::NewProp_ContextName_MetaData[] = {
+		{ "Category", "HelpContextMappingData" },
+		{ "ModuleRelativePath", "Public/HelpContextMappingData.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FStrPropertyParams Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::NewProp_ContextName = { "ContextName", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Str, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(FHelpContextMappingData, ContextName), METADATA_PARAMS(Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::NewProp_ContextName_MetaData, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::NewProp_ContextName_MetaData)) };
+	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::PropPointers[] = {
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::NewProp_TopicIds,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::NewProp_TopicIds_Inner,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::NewProp_ContextName,
+	};
+	const UE4CodeGen_Private::FStructParams Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::ReturnStructParams = {
+		(UObject* (*)())Z_Construct_UPackage__Script_DBDSharedTypes,
+		Z_Construct_UScriptStruct_FDBDTableRowBase,
+		&NewStructOps,
+		"HelpContextMappingData",
+		sizeof(FHelpContextMappingData),
+		alignof(FHelpContextMappingData),
+		Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::PropPointers,
+		UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::PropPointers),
+		RF_Public|RF_Transient|RF_MarkAsNative,
+		EStructFlags(0x00000001),
+		METADATA_PARAMS(Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::Struct_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::Struct_MetaDataParams))
+	};
+	UScriptStruct* Z_Construct_UScriptStruct_FHelpContextMappingData()
+	{
+#if WITH_HOT_RELOAD
+		extern uint32 Get_Z_Construct_UScriptStruct_FHelpContextMappingData_Hash();
+		UPackage* Outer = Z_Construct_UPackage__Script_DBDSharedTypes();
+		static UScriptStruct* ReturnStruct = FindExistingStructIfHotReloadOrDynamic(Outer, TEXT("HelpContextMappingData"), sizeof(FHelpContextMappingData), Get_Z_Construct_UScriptStruct_FHelpContextMappingData_Hash(), false);
+#else
+		static UScriptStruct* ReturnStruct = nullptr;
+#endif
+		if (!ReturnStruct)
+		{
+			UE4CodeGen_Private::ConstructUScriptStruct(ReturnStruct, Z_Construct_UScriptStruct_FHelpContextMappingData_Statics::ReturnStructParams);
+		}
+		return ReturnStruct;
+	}
+	uint32 Get_Z_Construct_UScriptStruct_FHelpContextMappingData_Hash() { return 3215899264U; }
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+#ifdef _MSC_VER
+#pragma warning (pop)
+#endif

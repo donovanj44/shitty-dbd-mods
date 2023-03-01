@@ -1,0 +1,404 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Development\DBDUIViewsCore\Definitions.DBDUIViewsCore.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreOnboardingTutorialPanelWidget.gen.cpp
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreOnboardingTutorialPanelWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\CoreBaseUserWidget.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Blueprint/UserWidget.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/SlateWrapperTypes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\SlateWrapperTypes.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/Widget.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/Visual.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Visual.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Slate/WidgetTransform.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetTransform.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetNavigation.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Types/NavigationMetaData.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetNavigation.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\Widget.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Components/NamedSlotInterface.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\NamedSlotInterface.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Slate\Public\Widgets/Layout/Anchors.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\Anchors.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimation.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplate.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTrack.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeTransform.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeWarping.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplate.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplateBase.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplateBase.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneExecutionTokens.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneExecutionToken.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneAnimTypeID.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationScope.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/PersistentEvaluationData.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationOperand.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationOperand.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceInstanceData.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceInstanceData.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingAccumulator.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableToken.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuatorID.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuator.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\IMovieScenePlayer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePreAnimatedState.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnRegister.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\IMovieSceneObjectSpawner.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationState.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/IMovieSceneMotionVectorSimulation.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingCurves.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingCurves.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableTokenStack.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneInitialValueStore.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneAccumulatedBlendState.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation\Blending\MovieSceneBlendingAccumulator.inl
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneTemplateInterrogation.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplate.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackImplementation.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackImplementation.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTrack.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceHierarchy.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSectionParameters.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSectionParameters.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceHierarchy.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplate.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequence.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Animation/WidgetAnimationBinding.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimationBinding.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetAnimation.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Blueprint/WidgetBlueprintGeneratedClass.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\UMG\Public\Binding/DynamicPropertyPath.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\PropertyPath\Public\PropertyPathHelpers.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\PropertyPath\Public\PropertyTypeCompatibility.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath\PropertyPathHelpers.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\DynamicPropertyPath.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\WidgetBlueprintGeneratedClass.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG\UserWidget.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\CoreBaseViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\CoreBaseViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDInput\Public\InteractiveWidgetInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDInput\InteractiveWidgetInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EControlMode.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EControlMode.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIManagers\Public\EScaleType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIManagers\EScaleType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreBaseUserWidget.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\PendingStepData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\PendingTutorialData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\OnboardingTutorialButtonViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EOnboardingStepStatus.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EOnboardingStepStatus.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EOnboardingTutorialButtonStyle.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EOnboardingTutorialButtonStyle.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\RewardWrapperViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\CustomizationRewardViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\RewardViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\RewardViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EItemRarity.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EItemRarity.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\CustomizationTooltipViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EPlayerRole.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EPlayerRole.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PriceViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\ECurrencyType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\ECurrencyType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PriceViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\CustomizationTooltipViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\CustomizationRewardViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\ERewardType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\ERewardType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\CharacterRewardViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\CharacterTooltipViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\ECharacterDifficulty.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\ECharacterDifficulty.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\CharacterTooltipViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\CharacterRewardViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\CurrencyProgressionRewardViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\CurrencyProgressionTooltipViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\CurrencyProgressionTooltipViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\CurrencyProgressionRewardViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\RewardWrapperViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\OnboardingTutorialButtonViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\PendingTutorialData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\PendingStepData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\OnboardingTutorialViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\OnboardingStepViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\OnboardingTutorialViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EOnboardingTutorialType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EOnboardingTutorialType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\OnboardingTutorialViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\OnboardingStepViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\OnboardingTutorialViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreOnboardingTutorialPanelWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CorePerksContainerWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CorePerksContainerWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PerksContainerViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PerksContainerViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\CoreBaseHudWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\UITween\Public\EEasingType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\UITween\EEasingType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreBaseHudWidget.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CorePerksContainerWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CorePerkWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CorePerkWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\CoreBaseLoadoutPartWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreBaseLoadoutPartWidget.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PerkViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PerkViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\BaseLoadoutPartViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\BaseLoadoutPartViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EStatusEffectType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EStatusEffectType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PerkViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PerkViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CorePerkWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CorePingStatusWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CorePingStatusWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PingStatusViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EPingQuality.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EPingQuality.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PingStatusViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CorePingStatusWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CorePlayerStatusesContainerWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CorePlayerStatusesContainerWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PlayerStatusesContainerViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PlayerStatusesContainerViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\TutorialHighlightViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EHudComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EHudComponent.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\TutorialHighlightViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CorePlayerStatusesContainerWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CorePlayerStatusKillerEffectK07Widget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CorePlayerStatusKillerEffectK07Widget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\CorePlayerStatusKillerEffectWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PlayerStatusViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EObsessionUIState.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EObsessionUIState.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\TricksterStatusData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\TricksterStatusData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\DoctorStatusData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EAfflictionLevel.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EAfflictionLevel.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\DoctorStatusData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EPlayerStatus.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EPlayerStatus.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\ExecutionerStatusData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\ExecutionerStatusData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\GhostStatusData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\GhostStatusData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\NightmareStatusData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\ESleepingUIState.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\ESleepingUIState.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\NightmareStatusData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PigStatusData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EReverseBearTrapUIState.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EReverseBearTrapUIState.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PigStatusData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PlagueStatusData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\ESicknessLevel.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\ESicknessLevel.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PlagueStatusData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\TwinsStatusData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\TwinsStatusData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\K24StatusData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\K24StatusData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\K25StatusData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\K25StatusData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\K26StatusData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\K26StatusData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PlayerStatusViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CorePlayerStatusKillerEffectWidget.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CorePlayerStatusKillerEffectK07Widget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CorePlayerStatusKillerEffectWidget.gen.cpp
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CorePlayerStatusWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CorePlayerStatusWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PlayerStatusViewInterface.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PlayerStatusViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\PlayerStatusAssets.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\EPlayerStatusBloodSplatterType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\EPlayerStatusBloodSplatterType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\PlayerStatusAssets.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EPlayerStateChangeType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EPlayerStateChangeType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CorePlayerStatusWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CorePowerBundleWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CorePowerBundleWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PowerBundleViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PowerBundleViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\AddonViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\AddonViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PowerViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PowerViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PowerBundleViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PowerBundleViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CorePowerBundleWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CorePowerWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CorePowerWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\PowerViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\PowerViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CorePowerWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreRewardWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreRewardWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\CoreButtonWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\EAnalogCursorStickiness.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\EAnalogCursorStickiness.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\EButtonWidgetVisibility.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\EButtonWidgetVisibility.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreButtonWidget.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreRewardWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreRewardWrapperWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreRewardWrapperWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreRewardWrapperWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreScreenIndicatorsContainerWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreScreenIndicatorsContainerWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\ScreenIndicatorsContainerViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\ScreenIndicatorViewData.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EHudScreenIndicatorType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EHudScreenIndicatorType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\ScreenIndicatorViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\ScreenIndicatorsContainerViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreScreenIndicatorsContainerWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreScreenIndicatorWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreScreenIndicatorWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreScreenIndicatorWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreSelectableButtonWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreSelectableButtonWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreSelectableButtonWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreSkillCheckWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreSkillCheckWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\SkillCheckViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\SkillCheckViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\SkillCheckViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\SkillCheckViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreSkillCheckWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreSpectateBarWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreSpectateBarWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\SpectateBarViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\SpectateBarViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreSpectateBarWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreStartSequenceWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreStartSequenceWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\StartSequenceViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\StartSequenceViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EThemeColorId.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EThemeColorId.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\StartSequenceViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\StartSequenceViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreStartSequenceWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreStatusEffectIcon.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreStatusEffectIcon.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\StatusEffectViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\StatusEffectViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreStatusEffectIcon.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreStatusEffectWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreStatusEffectWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\StatusEffectViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\StatusEffectViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreStatusEffectWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreSubtitlesWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreSubtitlesWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\SubtitlesViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\ESubtitlesBackgroundOpacity.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\ESubtitlesBackgroundOpacity.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\ESubtitlesSize.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\ESubtitlesSize.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\ESubtitlesPosition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\ESubtitlesPosition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\SubtitlesViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\SubtitlesEntry.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\SubtitlesEntry.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreSubtitlesWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreTabContainerWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreTabContainerWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\CoreButtonSelector.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreButtonSelector.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore\Public\TabWidgetData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\TabWidgetData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreTabContainerWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreTabWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreTabWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreTabWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreTemplateWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreTemplateWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\TemplateViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\TemplateViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\TemplateViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\TemplateViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreTemplateWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreTestBuildFlagWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreTestBuildFlagWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\TestBuildFlagViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\ETestBuildType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\ETestBuildType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\TestBuildFlagViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreTestBuildFlagWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreTutorialMysteryNoteWidget.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreTutorialMysteryNoteWidget.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\TutorialMysteryNoteViewInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\NotifTutorialPopupViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\NotifTutorialPopupViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\TutorialMysteryNoteViewInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreTutorialMysteryNoteWidget.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Plugins/Runtime/Bhvr/DBDUICore/Intermediate/Build/Win64/UE4Editor/Inc/DBDUIViewsCore/CoreTutorialObjectiveItem.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Source\DBDUIViewsCore/Public/CoreTutorialObjectiveItem.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\TutorialObjectivesViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\InteractionPromptViewData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Source\DBDUIViewInterfaces\Public\EInteractionPromptType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\EInteractionPromptType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\InteractionPromptViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICommon\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewInterfaces\TutorialObjectivesViewData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\DBDUICore\Intermediate\Build\Win64\UE4Editor\Inc\DBDUIViewsCore\CoreTutorialObjectiveItem.generated.h

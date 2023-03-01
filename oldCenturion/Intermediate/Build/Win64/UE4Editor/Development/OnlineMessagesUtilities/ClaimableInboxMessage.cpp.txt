@@ -1,0 +1,9 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\OnlineMessagesUtilities\Definitions.OnlineMessagesUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\OnlineMessagesUtilities\Public\ClaimableInboxMessage.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\OnlineMessagesUtilities\Public\ClaimableInboxMessageData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\OnlineMessagesUtilities\Public\EClaimableInboxMessageType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\OnlineMessagesUtilities\EClaimableInboxMessageType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\OnlineMessagesUtilities\ClaimableInboxMessageData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\OnlineMessagesUtilities\Public\EClaimableInboxMessageState.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\OnlineMessagesUtilities\EClaimableInboxMessageState.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\OnlineMessagesUtilities\ClaimableInboxMessage.generated.h

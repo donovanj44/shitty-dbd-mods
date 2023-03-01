@@ -1,0 +1,11 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\Competence\Definitions.Competence.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\OrModifierCondition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\CompositeModifierCondition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\EventDrivenModifierCondition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\BaseModifierCondition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Competence\BaseModifierCondition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Competence\EventDrivenModifierCondition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\ConditionReceiver.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Competence\ConditionReceiver.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Competence\CompositeModifierCondition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Competence\OrModifierCondition.generated.h

@@ -1,0 +1,7 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\DBDGameplayPresenter\Definitions.DBDGameplayPresenter.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDGameplayPresenter\Public\SurvivorStatusComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\ECamperImmobilizeState.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\ECamperImmobilizeState.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\ECamperDamageState.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\ECamperDamageState.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DBDGameplayPresenter\SurvivorStatusComponent.generated.h

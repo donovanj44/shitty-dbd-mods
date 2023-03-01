@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheCannibal\Definitions.TheCannibal.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheCannibal\Public\CannibalAnalyticsComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheHillbilly\Public\ChainsawAnalyticsBaseComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheHillbilly\ChainsawAnalyticsBaseComponent.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheCannibal\CannibalAnalyticsComponent.generated.h

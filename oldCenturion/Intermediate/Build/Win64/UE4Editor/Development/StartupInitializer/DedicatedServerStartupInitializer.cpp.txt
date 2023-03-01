@@ -1,0 +1,9 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\StartupInitializer\Definitions.StartupInitializer.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\StartupInitializer\Public\DedicatedServerStartupInitializer.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\StartupInitializer\Public\StartupInitializer.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\StartupInitializerInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\StartupInitializerInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\StartupInitializer\StartupInitializer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\DedicatedServerStartupInitializerInterface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DedicatedServerStartupInitializerInterface.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\StartupInitializer\DedicatedServerStartupInitializer.generated.h

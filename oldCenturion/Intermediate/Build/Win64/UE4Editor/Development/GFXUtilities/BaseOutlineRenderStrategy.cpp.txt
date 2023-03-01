@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\GFXUtilities\Definitions.GFXUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GFXUtilities\Public\BaseOutlineRenderStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\GFXUtilities\BaseOutlineRenderStrategy.generated.h

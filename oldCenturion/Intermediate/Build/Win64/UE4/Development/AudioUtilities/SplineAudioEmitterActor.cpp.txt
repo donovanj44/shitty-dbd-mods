@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\AudioUtilities\Definitions.AudioUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\AudioUtilities\Public\SplineAudioEmitterActor.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\AudioUtilities\SplineAudioEmitterActor.generated.h

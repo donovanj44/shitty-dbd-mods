@@ -1,0 +1,7 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheGhostface\Definitions.TheGhostface.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheGhostface\Public\GhostKillerAnalytics.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDAnalytics\Public\UniquelyIdentifiedAnalytic.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\BHVRAnalytics\Source\BHVRAnalytics\Public\BaseSingleStructIndexAnalytics.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Plugins\Runtime\Bhvr\BHVRAnalytics\Intermediate\Build\Win64\UE4Editor\Inc\BHVRAnalytics\BaseSingleStructIndexAnalytics.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDAnalytics\UniquelyIdentifiedAnalytic.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheGhostface\GhostKillerAnalytics.generated.h

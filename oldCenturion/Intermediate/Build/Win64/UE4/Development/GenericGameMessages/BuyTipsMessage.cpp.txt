@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\GenericGameMessages\Definitions.GenericGameMessages.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GenericGameMessages\Public\BuyTipsMessage.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GenericGameMessages\BuyTipsMessage.generated.h

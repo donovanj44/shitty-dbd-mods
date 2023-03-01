@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\DynamicContent\Definitions.DynamicContent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DynamicContent\Public\MarketingBannerData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DynamicContent\Public\BaseBannerData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DynamicContent\BaseBannerData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DynamicContent\MarketingBannerData.generated.h

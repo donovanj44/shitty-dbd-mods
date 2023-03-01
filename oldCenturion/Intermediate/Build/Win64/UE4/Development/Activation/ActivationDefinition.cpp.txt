@@ -1,0 +1,7 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\Activation\Definitions.Activation.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Activation\Public\ActivationDefinition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Activation\Public\EActivationStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Activation\EActivationStrategy.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Activation\ActivationDefinition.generated.h

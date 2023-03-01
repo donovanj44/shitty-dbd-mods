@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\S3Command\Definitions.S3Command.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\S3Command\Public\AccessKeys.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\S3Command\Public\AccessKey.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\S3Command\AccessKey.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\S3Command\AccessKeys.generated.h

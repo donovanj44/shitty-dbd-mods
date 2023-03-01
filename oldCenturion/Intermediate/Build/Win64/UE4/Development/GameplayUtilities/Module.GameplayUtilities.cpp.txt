@@ -1,0 +1,123 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\GameplayUtilities\Definitions.GameplayUtilities.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/AuthoritativeActorPoolComponent.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\AuthoritativeActorPoolComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\AuthoritativeActorPoolComponent.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\Net/UnrealNetwork.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/AuthoritativePoolableActorComponent.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\AuthoritativePoolableActorComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\BasePoolableActorComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\PoolableActor.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\PoolableActor.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\BasePoolableActorComponent.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\AuthoritativePoolableActorComponent.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/AuthorityDiscernedCharacter.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\AuthorityDiscernedCharacter.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\AuthorityDiscernedCharacter.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/BaseCharacterRotationStrategy.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\BaseCharacterRotationStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\BaseCharacterRotationStrategy.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/BaseCharacterVelocityAdditiveStrategy.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\BaseCharacterVelocityAdditiveStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\BaseCharacterVelocityAdditiveStrategy.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/BaseInputAccelerationConstraintStrategy.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\BaseInputAccelerationConstraintStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\BaseInputAccelerationConstraintStrategy.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/BasePoolableActorComponent.cpp
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/BasePushStrategyComponent.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\BasePushStrategyComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\BasePushStrategyComponent.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/BoxOcclusionQueryComponent.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\BoxOcclusionQueryComponent.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\BoxComponent.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\BoxOcclusionQueryComponent.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/CameraUtilities.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\CameraUtilities.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\CameraUtilities.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/CharacterPositionRecorderComponent.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\CharacterPositionRecorderComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\CharacterPositionRecorderComponent.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/CharacterPusherComponent.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\CharacterPusherComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\CharacterPusherComponent.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/CharacterSightableComponent.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\CharacterSightableComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\ESightStatus.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\ESightStatus.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\CoreUtilities\Public\DelegateHandleWrapper.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\CoreUtilities\DelegateHandleWrapper.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\CharacterSightableComponent.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/CharacterSightComponent.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\CharacterSightComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Activation\Public\ActivationDefinition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Activation\Public\EActivationStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Activation\EActivationStrategy.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Activation\ActivationDefinition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Activation\Public\Activatable.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\Activation\Activatable.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\DiscernibleCharacter.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\DiscernibleCharacter.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\CharacterSightComponent.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Character.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/ChargeableUtilities.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\ChargeableUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\ChargeableUtilities.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/ContainerUtilities.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\ContainerUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\ContainerUtilities.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/DiscernibleCharacter.cpp
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/GameplayUtilitiesModule.cpp
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/HitValidationReport.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\HitValidationReport.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\HitValidatorInstigatorParams.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\HitValidatorInstigatorParams.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\HitValidatorTargetParams.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\HitValidatorTargetParams.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\HitValidationReport.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/HitValidatorInstigatorParams.cpp
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/HitValidatorTargetParams.cpp
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/MockAuthoritativeActorPoolComponent.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\MockAuthoritativeActorPoolComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\MockAuthoritativeActorPoolComponent.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/MockPoolableActor.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\MockPoolableActor.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\MockPoolableActor.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/MovableCamera.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\MovableCamera.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\MovableCamera.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/MoveActorToComponent.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\MoveActorToComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\MoveActorToComponent.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/MovementUtilities.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\MovementUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\MovementUtilities.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/PawnUtilities.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\PawnUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\PawnUtilities.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/PlayerStateExt.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\PlayerStateExt.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\PlayerStateExt.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/PoolableActorComponent.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\PoolableActorComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\PoolableActorComponent.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/SceneComponentExt.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\SceneComponentExt.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\SceneComponentExt.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/SidePushStrategyComponent.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\SidePushStrategyComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\SidePushStrategyComponent.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Source/GameplayUtilities/Private/VisualLoggerExt.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayUtilities\Public\VisualLoggerExt.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameplayUtilities\VisualLoggerExt.generated.h

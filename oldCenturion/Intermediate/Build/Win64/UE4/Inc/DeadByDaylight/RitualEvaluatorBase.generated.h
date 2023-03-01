@@ -1,0 +1,124 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+struct FRitualEvent;
+#ifdef DEADBYDAYLIGHT_RitualEvaluatorBase_generated_h
+#error "RitualEvaluatorBase.generated.h already included, missing '#pragma once' in RitualEvaluatorBase.h"
+#endif
+#define DEADBYDAYLIGHT_RitualEvaluatorBase_generated_h
+
+#define DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_SPARSE_DATA
+#define DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_RPC_WRAPPERS \
+	virtual bool EvaluateEvent_Implementation(FRitualEvent const& ritualEvent); \
+ \
+	DECLARE_FUNCTION(execEvaluateEvent);
+
+
+#define DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_RPC_WRAPPERS_NO_PURE_DECLS \
+	virtual bool EvaluateEvent_Implementation(FRitualEvent const& ritualEvent); \
+ \
+	DECLARE_FUNCTION(execEvaluateEvent);
+
+
+#define DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_EVENT_PARMS \
+	struct RitualEvaluatorBase_eventEvaluateEvent_Parms \
+	{ \
+		FRitualEvent ritualEvent; \
+		bool ReturnValue; \
+ \
+		/** Constructor, initializes return property only **/ \
+		RitualEvaluatorBase_eventEvaluateEvent_Parms() \
+			: ReturnValue(false) \
+		{ \
+		} \
+	};
+
+
+#define DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_CALLBACK_WRAPPERS
+#define DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesURitualEvaluatorBase(); \
+	friend struct Z_Construct_UClass_URitualEvaluatorBase_Statics; \
+public: \
+	DECLARE_CLASS(URitualEvaluatorBase, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DeadByDaylight"), NO_API) \
+	DECLARE_SERIALIZER(URitualEvaluatorBase)
+
+
+#define DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_INCLASS \
+private: \
+	static void StaticRegisterNativesURitualEvaluatorBase(); \
+	friend struct Z_Construct_UClass_URitualEvaluatorBase_Statics; \
+public: \
+	DECLARE_CLASS(URitualEvaluatorBase, UObject, COMPILED_IN_FLAGS(0), CASTCLASS_None, TEXT("/Script/DeadByDaylight"), NO_API) \
+	DECLARE_SERIALIZER(URitualEvaluatorBase)
+
+
+#define DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	NO_API URitualEvaluatorBase(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(URitualEvaluatorBase) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, URitualEvaluatorBase); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(URitualEvaluatorBase); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API URitualEvaluatorBase(URitualEvaluatorBase&&); \
+	NO_API URitualEvaluatorBase(const URitualEvaluatorBase&); \
+public:
+
+
+#define DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	NO_API URitualEvaluatorBase(URitualEvaluatorBase&&); \
+	NO_API URitualEvaluatorBase(const URitualEvaluatorBase&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, URitualEvaluatorBase); \
+DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(URitualEvaluatorBase); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(URitualEvaluatorBase)
+
+
+#define DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_PRIVATE_PROPERTY_OFFSET
+#define DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_7_PROLOG \
+	DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_EVENT_PARMS
+
+
+#define DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_PRIVATE_PROPERTY_OFFSET \
+	DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_SPARSE_DATA \
+	DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_RPC_WRAPPERS \
+	DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_CALLBACK_WRAPPERS \
+	DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_INCLASS \
+	DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_PRIVATE_PROPERTY_OFFSET \
+	DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_SPARSE_DATA \
+	DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_RPC_WRAPPERS_NO_PURE_DECLS \
+	DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_CALLBACK_WRAPPERS \
+	DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_INCLASS_NO_PURE_DECLS \
+	DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h_9_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> DEADBYDAYLIGHT_API UClass* StaticClass<class URitualEvaluatorBase>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID DeadByDaylight_Source_DeadByDaylight_Public_RitualEvaluatorBase_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS

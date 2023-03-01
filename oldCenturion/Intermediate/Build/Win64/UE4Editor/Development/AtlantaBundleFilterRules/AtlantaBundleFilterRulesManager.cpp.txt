@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\AtlantaBundleFilterRules\Definitions.AtlantaBundleFilterRules.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\AtlantaBundleFilterRules\Public\AtlantaBundleFilterRulesManager.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\AtlantaBundleFilterRules\AtlantaBundleFilterRulesManager.generated.h

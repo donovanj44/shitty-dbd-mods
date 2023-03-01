@@ -1,0 +1,142 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\DeadByDaylight\Definitions.DeadByDaylight.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/InteractionDetectorComponent.gen.cpp
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/InteractionDetectorComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\InteractionDetectorComponent.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/InteractionPlayerProperties.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/InteractionPlayerProperties.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\InteractionPlayerProperties.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/InteractionProficiency.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/InteractionProficiency.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EStatusEffectType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EStatusEffectType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\InteractionProficiency.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/InteractionProficiencyData.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/InteractionProficiencyData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\InteractionProficiencyData.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/InteractionProficiencyProperties.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/InteractionProficiencyProperties.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DataTableUtilities\Public\DBDTableRowBase.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/DataTable.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Public\DataTableUtils.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DataTable.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DataTableUtilities\DBDTableRowBase.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\InteractionProficiencyProperties.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/InteractionRequest.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/InteractionRequest.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\InteractionRequest.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/Interactor.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/Interactor.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\Lock.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\Lock.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\Interactor.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/InterruptionDefinition.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/InterruptionDefinition.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\AnimationUtilities\Public\AnimationMontageDescriptor.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\AnimationUtilities\AnimationMontageDescriptor.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\InterruptionDefinition.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/InventoryHandler.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/InventoryHandler.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\InventoryHandler.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/InventorySlotData.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/InventorySlotData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EInventoryItemType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\EInventoryItemType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EPerkCategory.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\EPerkCategory.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EOfferingCategory.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\EOfferingCategory.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EItemRarity.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EItemRarity.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EItemAvailability.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EItemAvailability.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\SpecialEventUIInfo.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\SpecialEventUIInfo.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\InventorySlotData.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/IsMaximumInfected.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/IsMaximumInfected.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\GameplayModifierCondition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\BaseModifierCondition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Competence\BaseModifierCondition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\GameplayModifierCondition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\IsMaximumInfected.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/IsNotSightedByAnyCharacter.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/IsNotSightedByAnyCharacter.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\EventDrivenModifierCondition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Competence\EventDrivenModifierCondition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\IsNotSightedByAnyCharacter.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/ItemAddon.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/ItemAddon.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\ItemModifier.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\GameplayModifierContainer.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\BaseModifierContainer.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\ConditionReceiver.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Competence\ConditionReceiver.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\ModifierReplicatedEventConditionData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Competence\ModifierReplicatedEventConditionData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Competence\BaseModifierContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\GameEventData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\GameEventData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EDBDScoreTypes.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\EDBDScoreTypes.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\ModifierTickableConditionReplicatedData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\ModifierTickableConditionReplicatedData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\StatusViewSource.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\StatusViewSource.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\GameplayModifierContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\GameplayModifierData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\GamePlayModifier.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Competence\GamePlayModifier.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Competence\GameplayModifierData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\ItemModifier.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\ItemAddonInitializationData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\ItemAddonInitializationData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\ItemAddon.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/ItemAddonDataAsset.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/ItemAddonDataAsset.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\GameplayModifierContainerDataAsset.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\DBDPrimaryDataAsset.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\DBDPrimaryDataAsset.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\GameplayModifierContainerDataAsset.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\ItemAddonDataAsset.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/ItemAddonInitializationData.gen.cpp
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/ItemAddonProperties.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/ItemAddonProperties.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\ItemData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\ELoadoutItemType.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\ELoadoutItemType.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\BaseItemData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\ItemUIData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\CustomTransformation.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\CustomTransformation.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\ItemUIData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\BaseItemData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\ItemAvailability.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\ItemAvailability.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\EItemHandPosition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\EItemHandPosition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EPlayerRole.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EPlayerRole.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EKillerAbilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EKillerAbilities.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\ItemData.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\ParentItemIDs.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\ParentItemIDs.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\ItemAddonProperties.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/ItemAvailability.gen.cpp
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/ItemBlueprint.gen.cpp
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight/Public/ItemBlueprint.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Animation/SkeletalMeshActor.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Matinee/MatineeAnimInterface.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MatineeAnimInterface.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SkeletalMeshActor.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DeadByDaylight\ItemBlueprint.generated.h
+C:/Users/Cranch/Documents/Unreal Projects/DeadByDaylight/Intermediate/Build/Win64/UE4Editor/Inc/DeadByDaylight/ItemData.gen.cpp

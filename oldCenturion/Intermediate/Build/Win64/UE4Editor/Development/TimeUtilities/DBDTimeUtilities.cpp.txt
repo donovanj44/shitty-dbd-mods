@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TimeUtilities\Definitions.TimeUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TimeUtilities\Public\DBDTimeUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TimeUtilities\DBDTimeUtilities.generated.h

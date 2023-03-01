@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\Competence\Definitions.Competence.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\TestObjectStateProviderComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameplayTagUtilities\Public\ObjectStateProvider.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTagUtilities\ObjectStateProvider.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Competence\TestObjectStateProviderComponent.generated.h

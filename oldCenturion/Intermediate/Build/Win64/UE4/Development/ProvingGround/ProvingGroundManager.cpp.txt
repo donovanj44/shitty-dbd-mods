@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\ProvingGround\Definitions.ProvingGround.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\ProvingGround\Public\ProvingGroundManager.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\ProvingGround\ProvingGroundManager.generated.h

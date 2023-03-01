@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\GameFlow\Definitions.GameFlow.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GameFlow\Public\GameFlowHandler.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DeadByDaylight\Public\AbstractGameFlowHandler.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DeadByDaylight\AbstractGameFlowHandler.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GameFlow\GameFlowHandler.generated.h

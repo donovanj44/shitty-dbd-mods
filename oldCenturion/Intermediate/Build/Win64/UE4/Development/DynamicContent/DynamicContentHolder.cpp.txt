@@ -1,0 +1,7 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\DynamicContent\Definitions.DynamicContent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DynamicContent\Public\DynamicContentHolder.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DynamicContent\Public\LRUTextureCache.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DynamicContent\LRUTextureCache.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DynamicContent\Public\TaskContainer.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DynamicContent\TaskContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DynamicContent\DynamicContentHolder.generated.h

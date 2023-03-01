@@ -1,0 +1,11 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\Definitions.TheSpirit.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheSpirit\Public\OwningPlayerInSpiritHuskRange.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDCompetence\Public\AnyActorPairQueryRangeIsTrue.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\RangeBasedCondition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\EventDrivenModifierCondition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Competence\Public\BaseModifierCondition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Competence\BaseModifierCondition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Competence\EventDrivenModifierCondition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Competence\RangeBasedCondition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDCompetence\AnyActorPairQueryRangeIsTrue.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheSpirit\OwningPlayerInSpiritHuskRange.generated.h

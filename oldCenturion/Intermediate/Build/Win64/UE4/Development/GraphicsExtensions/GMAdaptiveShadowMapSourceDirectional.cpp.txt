@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\GraphicsExtensions\Definitions.GraphicsExtensions.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GraphicsExtensions\Public\GMAdaptiveShadowMapSourceDirectional.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\GraphicsExtensions\Public\GMAdaptiveShadowMapSource.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GraphicsExtensions\GMAdaptiveShadowMapSource.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\GraphicsExtensions\GMAdaptiveShadowMapSourceDirectional.generated.h

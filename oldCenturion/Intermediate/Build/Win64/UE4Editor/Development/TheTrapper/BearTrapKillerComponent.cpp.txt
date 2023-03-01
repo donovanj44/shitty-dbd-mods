@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheTrapper\Definitions.TheTrapper.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheTrapper\Public\BearTrapKillerComponent.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheTrapper\BearTrapKillerComponent.generated.h

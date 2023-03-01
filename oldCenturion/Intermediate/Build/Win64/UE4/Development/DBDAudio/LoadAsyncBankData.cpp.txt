@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Development\DBDAudio\Definitions.DBDAudio.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDAudio\Public\LoadAsyncBankData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4\Inc\DBDAudio\LoadAsyncBankData.generated.h

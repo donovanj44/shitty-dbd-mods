@@ -1,0 +1,32 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheNightmare\Definitions.TheNightmare.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheNightmare\Public\NightmareAnimInstance.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDAnimation\Public\KillerAnimInstance.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDAnimation\Public\BaseKillerAnimInstance.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDAnimation\Public\PlayerAnimInstance.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\AnimationUtilities\Public\TaggedAnimCollection.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\GameplayTags\Classes\GameplayTagContainer.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags\GameplayTagContainer.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\AnimationUtilities\TaggedAnimCollection.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Activation\Public\Activatable.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Activation\Activatable.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\AnimationUtilities\Public\AnimSequenceSelector.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\AnimationUtilities\Public\TaggedAnimSequence.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\AnimationUtilities\TaggedAnimSequence.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\AnimationUtilities\AnimSequenceSelector.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Activation\Public\ActivationDefinition.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\Activation\Public\EActivationStrategy.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Activation\EActivationStrategy.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\Activation\ActivationDefinition.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDAnimation\PlayerAnimInstance.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDAnimation\BaseKillerAnimInstance.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EInteractionAnimation.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EInteractionAnimation.generated.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files (x86)\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDSharedTypes\Public\EAttackSubstate.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDSharedTypes\EAttackSubstate.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDAnimation\KillerAnimInstance.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheNightmare\NightmareAnimInstance.generated.h

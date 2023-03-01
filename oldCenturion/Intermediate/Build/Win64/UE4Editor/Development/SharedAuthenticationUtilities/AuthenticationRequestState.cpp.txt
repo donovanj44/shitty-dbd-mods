@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\SharedAuthenticationUtilities\Definitions.SharedAuthenticationUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\SharedAuthenticationUtilities\Public\AuthenticationRequestState.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\SharedAuthenticationUtilities\AuthenticationRequestState.generated.h

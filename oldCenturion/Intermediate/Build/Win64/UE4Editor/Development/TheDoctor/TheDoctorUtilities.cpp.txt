@@ -1,0 +1,3 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheDoctor\Definitions.TheDoctor.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheDoctor\Public\TheDoctorUtilities.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheDoctor\TheDoctorUtilities.generated.h

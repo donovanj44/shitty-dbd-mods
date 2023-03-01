@@ -1,0 +1,5 @@
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Development\TheSpirit\Definitions.TheSpirit.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\TheSpirit\Public\SpiritDynamicAccessoryAnimInstance.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Source\DBDAnimation\Public\DynamicAccessoryAnimInstance.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\DBDAnimation\DynamicAccessoryAnimInstance.generated.h
+C:\Users\Cranch\Documents\Unreal Projects\DeadByDaylight\Intermediate\Build\Win64\UE4Editor\Inc\TheSpirit\SpiritDynamicAccessoryAnimInstance.generated.h
