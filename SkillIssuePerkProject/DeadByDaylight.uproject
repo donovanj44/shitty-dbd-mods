@@ -841,6 +841,10 @@
 			"BlacklistTargetConfigurations": [
 				"Shipping"
 			]
+		},
+		{
+			"Name": "EditorDiscordRichPresence",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
